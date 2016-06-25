@@ -707,6 +707,8 @@ LI[class^='user'].deleted-message{
    margin-right: 1rem;
 }
 
+.snooze_btn::after {content: none}
+
   /* Emote height override */
 #chat .chat-me-command-joined{
   min-height: 0px !Important;
