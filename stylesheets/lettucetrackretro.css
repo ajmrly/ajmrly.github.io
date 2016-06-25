@@ -513,7 +513,7 @@ ul.avatar-list li.currentDJ .user-kris:after, ul.avatar-list li.currentDJ .user-
 
     #main-room .left_section {}
     #main-room .left_section #main_player {  }
-    #main_player .player_header { left: initial; right: -73px; height: 260px; }
+    #main_player .player_header { left: initial; right: -75px; height: 260px; }
     #main_player .player_header span {
         float: left;
         padding-left: 0;
