@@ -341,7 +341,7 @@ span.usernameContainer, .followers-counter,
 	background: #00e5ff;
 }
 #user_popover .actions, #user_popover .global-actions, #user_popover {
-	background: #0033ff;
+	background: #c8f8fc;
 	opacity: .95;
 }
 #user_popover .global-actions a, #user_popover .usercontent header .dubs, #user_popover .usercontent header h3 {
