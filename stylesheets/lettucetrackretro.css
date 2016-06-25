@@ -72,6 +72,7 @@ border: 2px solid #ff52e2 !important;
 
 #browser .browser-content .browser-content-main .sidebar .title {
     color: #ff52e2;
+    border-radius: 0;
 }
 /* Fix ban font color */
 #user_popover .actions a input {
