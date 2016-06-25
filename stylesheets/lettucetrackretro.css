@@ -27,11 +27,11 @@ border-top: 1px solid #0033ff !important;
 }
 
 #header-global {
-  border: 2px solid #0033ff;
+  border: 2px solid #9733de;
 }
 
 #main_player {
-border: 2px solid #9733de !important;
+border: 2px solid #0033ff !important;
 }
 
 #main_player .play-song-link {
@@ -81,7 +81,7 @@ border: 2px solid #ff52e2 !important;
     color: #1A1A1A;
 }
 .main-page-container #main-section #player-controller {
-  color: #0033ff;
+  color: #ff52e2;
 }
 /* Remove rounded edges on headerbar */
 #header-global {
