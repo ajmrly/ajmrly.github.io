@@ -7,6 +7,11 @@
     Change every color code the current code has to the one you want and import the code into your css.
 */
 
+/* progress bar colour */
+#player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
+    background-color: #9733de;
+}
+
 #main_player .play-song-link-container .play-song-link-browser {
 border: 2px solid #9733de;
 padding: 13px !important;
