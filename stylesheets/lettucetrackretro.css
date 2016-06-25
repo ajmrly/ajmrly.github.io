@@ -27,11 +27,12 @@ border-top: 1px solid #0033ff !important;
 }
 
 #header-global {
-  border: 0px 0px 2px 0px solid #9733de;
+  border-bottom: 2px solid #9733de;
 }
 
 #main_player {
 border: 2px solid #0033ff !important;
+border-top: none;
 }
 
 #main_player .play-song-link {
