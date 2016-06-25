@@ -43,7 +43,7 @@ border: 2px solid #ff52e2 !important;
 }
 
 .main-page-container #main-section #player-controller {
- border-top: 2px solid #0033ff !important;
+ border-top: 2px solid #ff52e2 !important;
 }
 
 .main-page-container #main-section #player-controller .right {
@@ -52,12 +52,12 @@ border: 2px solid #ff52e2 !important;
 
 #main_player .player_header span.active {
  border: 2px solid #ff52e2;
-    border-right: none;
+    border-left: none;
 }
 
 #main_player .player_header span {
   border: 2px solid #00e5ff;
-    border-right: none;
+    border-left: none;
 }
 
 .icon-heart:before {
@@ -85,7 +85,7 @@ border: 2px solid #ff52e2 !important;
 }
 /* Remove rounded edges on headerbar */
 #header-global {
-  color: #9733de;
+  color: #ff52e2;
 }
 /* Player fixes */
 #main_player {
@@ -462,7 +462,8 @@ ul.avatar-list li.currentDJ .user-kris:after, ul.avatar-list li.currentDJ .user-
         height: 100%;
     }
     #main-room #chat .chat-container .chat-messages { height: inherit; }
-    #main-room #chat .chat-container, #chat { height: 100%; }
+    #main-room #chat .chat-container, #chat { height: 100%;
+    background: rgba(8,8,8,0.65) !important}
     
         /* Main function */
     #main-room .left_section {
@@ -478,7 +479,7 @@ ul.avatar-list li.currentDJ .user-kris:after, ul.avatar-list li.currentDJ .user-
     #main_player { width: 100%; max-width: 35.6%; min-width: 450px; float: right; }
 
     /* Buttons fix */
-    #main-room .left_section #main_player .play-song-link-container { bottom: 1rem; }
+    #main-room .left_section #main_player .play-song-link-container { bottom: -4rem; }
     #main-room .left_section #main_player .play-song-link-container > div { border-radius: 0; }
     #main-room .left_section #main_player .play-song-link-container > div { width: auto; font-size: .8rem; padding: .75rem 1.5rem; }
     #main-room .left_section #main_player {
