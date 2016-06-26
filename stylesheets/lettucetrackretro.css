@@ -1,7 +1,7 @@
-    Originally made by @kris | Redone by @sinful | Organised by @Maskinen | Coloured by @LettucePants
-    Current Colours: Retro (#9733de #ff52e2 #0033ff #00e5ff).
-    Alternate Colours: Teal(#33ddaa)
+/*  Originally made by @kris | Redone by @sinful | Organised by @Maskinen | Coloured by @LettucePants
+    Current Colours: Retro (#9733de #ff52e2 #0049ff #00e5ff).
     Change every color code the current code has to the one you want and import the code into your css.
+    Border Radii eliminated by @LettucePants for a cleaner look.
 */
 /* progress bar colour */
 
@@ -18,7 +18,7 @@
     color: #ff52e2;
 }
 #chat .pusher-chat-widget-input {
-    border-top: 1px solid #0033ff !important;
+    border-top: 1px solid #0049ff !important;
 }
 #main-room .left_section #main_player .play-song-link {
     border: 2px solid #00e5ff;
@@ -27,7 +27,7 @@
     border-bottom: 2px solid #9733de;
 }
 #main_player {
-    border: 2px solid #0033ff !important;
+    border: 2px solid #0049ff !important;
     border-top: none;
 }
 #main_player .play-song-link {
@@ -93,7 +93,7 @@
     color: #00e5ff;
 }
 #main_player .player_header span.active {
-    color: #0033ff;
+    color: #0049ff;
 }
 #main_player .play-song-link i {
     color: #9733de;
@@ -107,7 +107,7 @@
     background: #00e5ff;
 }
 .right_section #chat .chat-main li[class*='system'] {
-    color: #0033ff !important;
+    color: #0049ff !important;
     border-top: 1px solid #ff52e2 !important;
     border-bottom: 1px solid #00e5ff !important;
 }
@@ -115,7 +115,7 @@
 
 #main-menu-left a.room-active-link {
     color: #9733de;
-    box-shadow: inset 4px 0px 0px 0px #0033ff
+    box-shadow: inset 4px 0px 0px 0px #0049ff
 }
 #header-global .header-left-navigation:after {
     color: #ff52e2;
@@ -136,7 +136,7 @@ a:hover,
     color: #00e5ff;
 }
 #main-loading {
-    background: #0033ff;
+    background: #0049ff;
 }
 #header-global .header-right-navigation .user-messages .message-counter {
     background: #9733de;
@@ -173,7 +173,7 @@ a:hover,
 }
 .for_content_version,
 .for_content_p {
-    color: #0033ff !important;
+    color: #0049ff !important;
 }
 /** DubX Feature Menus **/
 
@@ -192,7 +192,7 @@ a:hover,
     color: #00e5ff;
 }
 #player-controller .right ul li .dubup.voted {
-    background: #0033ff;
+    background: #0049ff;
 }
 #player-controller .right ul li .add-to-playlist-button.grabbed {
     background: #9733de;
@@ -206,7 +206,7 @@ a:hover,
 }
 #player-controller .right ul li .dubdown .icon-arrow-down,
 #player-controller .right ul li .dubdown .dub-counter {
-    color: #0033ff;
+    color: #0049ff;
 }
 /* Add to Playlist */
 
@@ -225,7 +225,7 @@ span.name,
     opacity: 0.5;
 }
 #room-list #container-room-list .room-item .roomImage .join {
-    background: #0033ff;
+    background: #0049ff;
 }
 #warning {
     background: #9733de;
@@ -247,7 +247,7 @@ span.name,
     background: #00e5ff;
 }
 #room-info-display .room-info-display-wrapper h2 span i {
-    color: #0033ff;
+    color: #0049ff;
 }
 /* Video Buttons (bottom) */
 
@@ -273,7 +273,7 @@ span.name,
     border-color: #00e5ff;
 }
 #chat .pusher-chat-widget-input #new-messages-counter {
-    background: #0033ff;
+    background: #0049ff;
 }
 /* Settings */
 
@@ -308,7 +308,7 @@ span.name,
 }
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item.selected,
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .playlist-item.selected {
-    border: 1px solid #0033ff;
+    border: 1px solid #0049ff;
 }
 /* Preview */
 
@@ -332,7 +332,7 @@ span.name,
 span.usernameContainer,
 .followers-counter,
 #profileMainSection .profileView .header .pictureContainer .updatePictureGif {
-    color: #0033ff;
+    color: #0049ff;
 }
 #profileMainSection .profileView .infoProfile .edit-btn,
 #profileMainSection .profileView .infoProfile .follow-btn {
